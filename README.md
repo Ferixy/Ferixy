@@ -6,7 +6,7 @@ I'm a student @ Iran school of atomic enegry and currently leaning Java , C++ an
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactthesteel@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/Ferixy)
-[![Discord Badge](https://img.shields.io/badge/-Discord-5662f6?style=flat&logo=Discord&logoColor=white&link=https://discordapp.com/users/491113976806113281)](https://discord.com/users/473794445481869344)
+[![Discord Badge](https://img.shields.io/badge/Steel--Falcon-%231385-5662f6?style=flat&logo=Discord&logoColor=white&link=https://discordapp.com/users/491113976806113281)](https://discord.com/users/473794445481869344)
 [![Instagram Badge](https://img.shields.io/badge/-thisteelfalcon-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/thissteelfalcon)
 ___
 - 💀 I’m god’s silliest experiment
