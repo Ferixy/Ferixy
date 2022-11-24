@@ -1,14 +1,13 @@
 ## Hello there! I’m Ferixy <img src="https://user-images.githubusercontent.com/77561374/203820005-e2c60b43-6d17-46a7-a25a-1ada5240c1e7.png" width="28px" alt="hi">
 
-I'm a student @ Iran school of atomic enegry and currently leaning Java , C++ and Python <img src="https://user-images.githubusercontent.com/77561374/203820894-61a1cc76-d0e3-4fe4-8333-f28000b51abb.gif" width="60px" alt="Ferixy">
+I'm a student @ Iran school of atomic enegry and currently leaning Java , C++ and Python <img src="https://user-images.githubusercontent.com/77561374/203820894-61a1cc76-d0e3-4fe4-8333-f28000b51abb.gif" width="30px" alt="Ferixy">
 
 :calling: Heres some ways you can contact me with!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactthesteel@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/Ferixy)
-[![Discord Badge](https://img.shields.io/badge/-M4hbod%231615-5662f6?style=flat&logo=Discord&logoColor=white&link=https://discordapp.com/users/491113976806113281)](https://discord.com/users/473794445481869344)
+[![Discord Badge](https://img.shields.io/badge/-Steel-Falcon%231385-5662f6?style=flat&logo=Discord&logoColor=white&link=https://discordapp.com/users/491113976806113281)](https://discord.com/users/473794445481869344)
 [![Instagram Badge](https://img.shields.io/badge/-mahbodism-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/thissteelfalcon)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Ferixy)
 ___
 - 💀 I’m god’s silliest experiment
 - ✈️ I’ll answer Telegram messages faster
@@ -26,7 +25,7 @@ ___
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Cpp](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ___
 ### In love with:
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
