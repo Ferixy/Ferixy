@@ -1,6 +1,6 @@
 ## Hello there! I’m Ferixy <img src="https://user-images.githubusercontent.com/77561374/203820005-e2c60b43-6d17-46a7-a25a-1ada5240c1e7.png" width="28px" alt="hi">
 
-I'm a student @ Iran's school of atomic enegry and currently leaning Java , C++ and Python <img src="https://user-images.githubusercontent.com/77561374/203820894-61a1cc76-d0e3-4fe4-8333-f28000b51abb.gif" width="30px" alt="Ferixy">
+I'm a student @ Iran's school of atomic enegry and currently learning Java , C++ and Python <img src="https://user-images.githubusercontent.com/77561374/203820894-61a1cc76-d0e3-4fe4-8333-f28000b51abb.gif" width="30px" alt="Ferixy">
 
 :calling: Heres some ways you can contact me with!
 
