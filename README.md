@@ -2,7 +2,7 @@
 
 I'm a student @ Iran's school of atomic enegry and currently learning Java , C++ and Python <img src="https://user-images.githubusercontent.com/77561374/203820894-61a1cc76-d0e3-4fe4-8333-f28000b51abb.gif" width="30px" alt="Ferixy">
 
-:calling: Heres some ways you can contact me with!
+:calling: Here's some ways you can contact me!!
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactthesteel@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/Ferixy)
